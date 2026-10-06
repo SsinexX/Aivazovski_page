@@ -56,6 +56,10 @@
 }
 
 @media (max-width: 480px) {
+    .socials {
+        gap: 20px;
+    }
+
     .social-icon {
         width: 55px;
         height: 55px;
